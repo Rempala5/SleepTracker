@@ -1,3 +1,3 @@
 # SleepTracker
 
-Demo Application for Sleep tracking. 
+Demo Application for Sleep tracking.   
