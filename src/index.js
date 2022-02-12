@@ -8,7 +8,10 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root'),
+  window.addEventListener('keydown', (event) => {
+    console.log("Hello World!");
+  })
 );
 
 // If you want to start measuring performance in your app, pass a function
